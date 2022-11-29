@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\BelolipeckiyTest\bin\Debug\BelolipeckiyTest.exe.config
+C:\Users\Student\source\repos\BelolipeckiyTest\bin\Debug\BelolipeckiyTest.exe
+C:\Users\Student\source\repos\BelolipeckiyTest\bin\Debug\BelolipeckiyTest.pdb
+C:\Users\Student\source\repos\BelolipeckiyTest\obj\Debug\BelolipeckiyTest.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BelolipeckiyTest\obj\Debug\BelolipeckiyTest.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BelolipeckiyTest\obj\Debug\BelolipeckiyTest.exe
+C:\Users\Student\source\repos\BelolipeckiyTest\obj\Debug\BelolipeckiyTest.pdb
+C:\Users\Student\source\repos\BelolipeckiyTest\bin\Debug\BelolipeckiyInspectorLib.dll
+C:\Users\Student\source\repos\BelolipeckiyTest\bin\Debug\BelolipeckiyInspectorLib.pdb
+C:\Users\Student\source\repos\BelolipeckiyTest\obj\Debug\BelolipeckiyTest.csproj.CopyComplete
